@@ -12,7 +12,7 @@
 
 - Mat 17:10,12-15 -> `Spirit of Elijah` Works through `John the Baptis`
 
-    ```text
+    ```py
     John the Baptist = Elijah (spirit works through the flesh)
     ```
 
@@ -20,20 +20,20 @@
 
 - Jn 1:29 -> Jn acknowledge Jesus 
 
-   ```text
-   lookk the Lamb of the God who tooks away the sins of the world
+   ```py
+   "look the Lamb of the God who tooks away the sins of the world"
    ```
 
 - Mt 3:1-7 -> Matt rebuking the PH, Saducees 
 
-    ```text
-    -> calls them brood of Vipers
+    ```py
+    #-> calls them brood of Vipers
     ```
 - Mt 3: 13-15 -> Jn Baptising Jesus (Being Baptise -> Belongs to Tabernicle)
 
 - Mt 9: 14 -> Jn fasting (same as PH) (But why Jesus and his Disciples does not)
 
-    ```text
+    ```py
     **Betrayer** | Chosen but betrayed
     - the work of the lampstand was over, 
     - lampstand light was put out
@@ -52,7 +52,7 @@
 
 - Mt 11:11-13 < == > 
 
-    ```text
+    ```py
     John was great but he was in downfall as he did not put out is light
     -> great least
     ```
